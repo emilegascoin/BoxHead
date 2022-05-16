@@ -20,9 +20,13 @@ Lootboxes will contain either an Uzi, AR or Sniper. RNG will decide what you get
 These guns will last until their ammo runs out, after this it will go back to the default pistol
 
 Guns:
+
 Pistol (Default):  Rate of fire: 15   Damage: 1
+
 Uzi :              Rate of fire: 2    Damage: 0.75
+
 AR  :              Rate of fire: 10   Damage: 2
+
 Sniper:            Rate of fire: 25   Damage: 10
 
 Once health runs out game over. 
