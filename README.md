@@ -1,5 +1,5 @@
 # BoxHead
-Download file, extract then click on the executable application called BoxHead
+Download file, extract then click on the Boxhead.exe
 
 Java boxhead - simplistic version (only need to add graphics)
 
