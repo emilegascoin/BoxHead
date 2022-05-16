@@ -1,4 +1,6 @@
 # BoxHead
+Download file, extract then click on the executable application called BoxHead
+
 Java boxhead - simplistic version (only need to add graphics)
 
 Fully functioning game. Made for an Assignment in 2021.
