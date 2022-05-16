@@ -7,9 +7,9 @@ Fully functioning game. Made for an Assignment in 2021.
 
 All info:
 
-Zombie - Does base damage to player. Health: 10. Rewards: 25 points
+Zombie - Does base damage to player. - Health: 10. - Rewards: 25 points
 
-Devil Zombie - Does DOUBLE base damage to player. Health - 50. Rewards - 100 points
+Devil Zombie - Does DOUBLE base damage to player. - Health: 50. - Rewards: 100 points
 
 Each round another zombie is added and chases the player
 at every 10th round another devil will continue to spawn
