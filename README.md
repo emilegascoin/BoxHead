@@ -44,5 +44,5 @@ Can be fixed by making it so the projectiles always aim a certain distance, this
 
 Shooting & rate of fire - Holding to shoot is how it was originally planned to fire but since it goes by framecount you can sometimes miss a shot if you spam click.
 
-
+Graphics - Zombies, Player, Arena and Blood splats on the ground.
 
